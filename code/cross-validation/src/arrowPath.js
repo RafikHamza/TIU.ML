@@ -1,0 +1,1 @@
+export const arrowPath = "M2 18H34M34 18L18 2M34 18L18 34";
