@@ -1,6 +1,6 @@
-![MLU-Explain Logo & Title](./assets/readme_header.png)
+![rafikhamza Logo & Title](./assets/readme_header.png)
 
-This repository holds the code used for Amazon's [MLU-Explain](https://mlu-explain.github.io/) educational articles on machine learning. MLU-Explain exists to illustrate core machine learning concepts using visual essays in a fun, informative, and accessible manner.
+This repository holds the code used for Amazon'srafikhamza educational articles on machine learning. rafikhamza exists to illustrate core machine learning concepts using visual essays in a fun, informative, and accessible manner.
 
 This material exists as supplementary educational material for [Machine Learning University (MLU)](https://aws.amazon.com/machine-learning/mlu/), which provides anybody, anywhere, at any time access to the same machine learning courses used to train Amazon’s own developers on machine learning.
 
@@ -10,7 +10,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/linear-regression.gif" alt="Linear Regression Article Image" width="400"/>
 
-**Title**: [Linear Regression](https://mlu-explain.github.io/linear-regression/)
+**Title**: [Linear Regression](https://rafikhamza.github.io/linear-regression/)
 
 **Summary**: A visual, interactive explanation of linear regression for machine learning.
 
@@ -22,7 +22,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/logistic-regression.gif" alt="Logistic Regression Article Image" width="400"/>
 
-**Title**: [Logistic Regression](https://mlu-explain.github.io/logistic-regression/)
+**Title**: [Logistic Regression](https://rafikhamza.github.io/logistic-regression/)
 
 **Summary**: Learn about how logistic regression can be used for binary classification through an interactive example.
 
@@ -34,7 +34,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/roc-auc.gif" alt="ROC & AUC Article Preview" width="400"/>
 
-**Title**: [ROC & AUC](https://mlu-explain.github.io/roc-auc/)
+**Title**: [ROC & AUC](https://rafikhamza.github.io/roc-auc/)
 
 **Summary**: A visual explanation of the Receiver Operating Characteristic Curve (ROC) curve, how it works with a live interactive example, and how it relates to Area Under The Curve (AUC).
 
@@ -46,7 +46,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/train-test-validation.gif" alt="Train, Test, And Validation Sets Article Image" width="400"/>
 
-**Title**: [Train, Test, and Validation Sets](https://mlu-explain.github.io/train-test-validation/)
+**Title**: [Train, Test, and Validation Sets](https://rafikhamza.github.io/train-test-validation/)
 
 **Summary**: Learn why it is best practice to split your data into training, testing, and validation sets, and explore the utility of each with a live machine learning model.
 
@@ -58,7 +58,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/precision-recall.gif" alt="Precision & Recall Article Preview" width="400"/>
 
-**Title**: [Precision & Recall](https://mlu-explain.github.io/precision-recall/)
+**Title**: [Precision & Recall](https://rafikhamza.github.io/precision-recall/)
 
 **Summary**: When it comes to evaluating classification models, accuracy is often a poor metric. This article covers two common alternatives, Precision and Recall, as well as the F1-score and Confusion Matrices.
 
@@ -70,7 +70,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/random-forest.gif" alt="Random Forest Article Image" width="400"/>
 
-**Title**: [Random Forest](https://mlu-explain.github.io/random-forest/)
+**Title**: [Random Forest](https://rafikhamza.github.io/random-forest/)
 
 **Summary**: Learn how the majority vote and well-placed randomness can extend the decision tree model to one of machine learning's most widely-used algorithms, the Random Forest.
 
@@ -82,7 +82,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/decision-tree.gif" alt="Decision Trees Article Image" width="400"/>
 
-**Title**: [Decision Trees](https://mlu-explain.github.io/decision-tree/)
+**Title**: [Decision Trees](https://rafikhamza.github.io/decision-tree/)
 
 **Summary**: Explore one of machine learning's most popular supervised algorithms: the Decision Tree. Learn how the tree makes its splits, the concepts of Entropy and Information Gain, and why going too deep is problematic.
 
@@ -92,9 +92,9 @@ This material exists as supplementary educational material for [Machine Learning
 
 ## Bias Variance Tradeoff
 
-<img src="./assets/gifs/mlu-explain_biasvariance.gif" alt="Bias Variance Tradeoff Article Image" width="400"/>
+<img src="./assets/gifs/rafikhamza_biasvariance.gif" alt="Bias Variance Tradeoff Article Image" width="400"/>
 
-**Title**: [The Bias Variance Tradeoff](https://mlu-explain.github.io/bias-variance/)
+**Title**: [The Bias Variance Tradeoff](https://rafikhamza.github.io/bias-variance/)
 
 **Summary**: Understand the tradeoff between under- and over-fitting models, how it relates to bias and variance, and explore interactive examples related to LASSO and KNN.
 
@@ -106,7 +106,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/double-descent1.gif" alt="Double Descent Article Image" width="400"/>
 
-**Title**: [Double Descent](https://mlu-explain.github.io/double-descent/)
+**Title**: [Double Descent](https://rafikhamza.github.io/double-descent/)
 
 **Summary**: Meet the double descent phenomenon in modern machine learning: what it is, how it relates to the bias-variance tradeoff, the importance of the interpolation regime, and a theory of what lies behind.
 
@@ -118,7 +118,7 @@ This material exists as supplementary educational material for [Machine Learning
 
 <img src="./assets/gifs/double-desent2.gif" alt="Double Descent 2 Article Image" width="400"/>
 
-**Title**: [Double Descent 2](https://mlu-explain.github.io/double-descent2/)
+**Title**: [Double Descent 2](https://rafikhamza.github.io/double-descent2/)
 
 **Summary**: Deepen your understanding of the double descent phenomenon. The article builds on the cubic spline example introduced in Double Descent 1, describing in mathematical detail what is happening.
 
@@ -133,7 +133,7 @@ This article holds code for each articles, as well as the generated builds from 
 First, clone this repo.
 
 ```bash
-git clone https://github.com/aws-samples/aws-mlu-explain.git
+git clone https://github.com/aws-samples/aws-rafikhamza.git
 ```
 
 Next, cd into the article of interest and install the required libraries.
